@@ -2,6 +2,11 @@
 
  ## Time Series Analysis with Prophet 
 
+ [Google Colab Link:](https://colab.research.google.com/drive/1xrpO8yQ1zFtqpl-zdBxbOcF2cCPCOZLj?usp=sharing)
+
+Background
+---
+
 Mercadolibre is the largest ecommerce and payments ecosystem in Latin America enabling users easier and better ways to pay and sell with the purpose of democratizing commerce and payments in the region.
 
 By using company's financial and user data this analysis aims to find ways to make the company grow.One of the way of doing this is by finding out if the ability to predict search traffic can translate into the ability to successfully trade the stock.

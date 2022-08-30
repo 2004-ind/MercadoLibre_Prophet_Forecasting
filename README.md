@@ -1,4 +1,4 @@
-# MercadoLibre-Prophet-Forecasting
+# MercadoLibre_Prophet_Forecasting
 
  ## Time Series Analysis with Prophet 
 
@@ -107,7 +107,7 @@ How's the near-term forecast for the popularity of MercadoLibre?
 
 The Prophet forecast is showing a dip in the popularity of MercadoLibre around October 2020 for a while and again will try to catch up but this doesn't seem very accurate.
 
-### Time Series Componenet ###
+### Time Series Component ###
 
 ![](Resources/trend_forecast.png)
 
@@ -143,6 +143,6 @@ ___
 
 ## License
 
-copyright 2022
+copyright@2022
 
 

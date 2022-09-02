@@ -136,11 +136,11 @@ The sale starts to pick up from Sunday and reaches to its peak on Wednesday and 
 
 Based on the sales forecast it's most likely that the company will make 969.60(in millions) USD in the next quarter. In the best case scenario they are likely make 1051.09(in millions)USD and they will be able to make 887.95(in millions)USD in worst case.
 
-## Contributers
+## Contributers:
 
 Manisha Lal
 
-08/30/2022
+09/02/2022
 
 manisha.lal.2009@gmail.com
 ___
